@@ -11,5 +11,5 @@
 https://mandigoforschner-byte.github.io/77534czt/
 
 ## Контакты
-- Email: [您的邮箱]
-- GitHub: [您的GitHub主页]
+- Email: mandigoforschner@gmail.com
+- GitHub: github.com/77534czt
